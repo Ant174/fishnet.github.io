@@ -708,8 +708,8 @@ img[alt="arrow"] {
 .info {
     width: 433px;
     float: left;
-    margin-left: 80px;
-    margin-right: 78px;
+    margin-left: 73px;
+    margin-right: 73px;
     box-sizing: border-box;
 }
 
@@ -747,10 +747,8 @@ img[alt="arrow"] {
     color: #6c6c6c;
 }
 
-
-}
 .intouch {
-    width: 360px;
+    width: 360px;    
     float: right;
 }
 .in {
@@ -778,7 +776,7 @@ img[alt="arrow"] {
     line-height: 22px;
     background-image: url(img/footer/mail.jpg);
     background-repeat: no-repeat;
-    background-position: 310px;
+    background-position: 300px;
     box-sizing: border-box;
 }
 .copy {
